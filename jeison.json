@@ -1,0 +1,22 @@
+{
+  "fch_reserva": "2026-06-30",
+  "estado_reserva": "Confirmada",
+  "cantidad_personas": 0,
+  "id_huesped": 1,
+  "id_habitacion": 1,
+  "id_empleado": 1,
+
+  "fch_ingreso": "2026-07-05",
+  "fch_salida": "2026-07-03",
+  "hr_ingreso": "14:00",
+  "hr_salida": "12:00",
+
+  "fch_pago": "2026-06-30",
+  "monto_total": 150,
+  "estado_pago": "Pagado",
+  "id_metodo": 1,
+
+  "monto_abonado": 150,
+  "descripcion": "Pago de reserva completa",
+  "id_servicio": 1
+}
